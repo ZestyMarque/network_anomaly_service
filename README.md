@@ -76,7 +76,8 @@
 
 - [Обоснование актуальности темы ВКР](docs/research/relevance.md)
 
-
 ## Контакты
 
-GitHub: [@ZestyMarque](https://github.com/ZestyMarque)
+- GitHub: [@ZestyMarque](https://github.com/ZestyMarque)
+- Telegram: [@amae_nai](https://t.me/amae_nai)
+- Email: [maxdarma07@gmail.com](mailto:maxdarma07@gmail.com)
